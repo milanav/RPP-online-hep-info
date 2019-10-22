@@ -184,7 +184,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * **USQCD:**
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them. <http://usqcd-software.github.io>
 
-* **Software lists:**
+* **Software Lists:**
     A list of Monte Carlo generators may be found at: <http://cmsdoc.cern.ch/cms/PRS/gentools/www/geners/collection/>
 
     The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology. <http://skands.physics.monash.edu/slha/>
@@ -230,7 +230,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * **The Particles:**
     App for Apple iPad, Windows 8 and Microsoft Surface. Allows users to browse a wealth of real "event" images and videos, read popular "biographies" of each of the particles and explore the A-Z of particle physics with its details and definitions of key concepts, laboratories and physicists. Developed by Science Photo Library in partnership with Prof. Frank Close. <http://www.sciencephoto.com/apps/particles.html>
 
-# Data repositories
+# Data Repositories
 Data is increasingly deposited in general-purpose repositories like Zenodo (https://zenodo.org/), figshare (https://figshare.com/) or the Open Science Framework (https://osf.io/), but here are a few specific repositories focused on physics.
 
 ## Particle Physics
@@ -288,7 +288,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most valid information to be included in the database. It includes more than 130,000 online documents, 1,2 million references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows to visualise and analyse data.
     The search functionality is freely accessible and the search results are displayed in their context, whereas the full text is secured to subscribers. <http://materials.springer.com>
 
-# Data preservation activities
+# Data Preservation Activities
 
 ## Particle Physics
 
