@@ -11,23 +11,23 @@ Suggestions for additions and updates are very welcome.[^1]
 # Particle Data Group (PDG) resources
 
 * **Review of Particle Physics (RPP):**
-    A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Group's best values and limits for particle properties such as masses, widths, lifetimes, and branching fractions, as well as an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
+    A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Group's best values and limits for particle properties, such as masses, widths, lifetimes, and branching fractions, as well as an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
 
-    All the contents of the book version of RPP are available online: <http://pdg.lbl.gov>
+    All the contents of the book version of RPP are available online at: <http://pdg.lbl.gov>
 
-    The printed book can be ordered: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
+    The printed book can be ordered at: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
 
-    Of historical interest is the complete RPP collection which can be found online: <http://pdg.lbl.gov/rpp-archive/> <http://library.cern/PDG_publications/review_particle_physics>
+    Of historical interest is the complete RPP collection which can be found online at: <http://pdg.lbl.gov/rpp-archive/> <http://library.cern/PDG_publications/review_particle_physics>
 
 * **Particle Physics booklet:**
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
 
-    The PDF file of the booklet can be downloaded: <http://pdg.lbl.gov/current/booklet.pdf>
+    The PDF file of the booklet can be downloaded at: <http://pdg.lbl.gov/current/booklet.pdf>
 
-    The printed booklet can be ordered: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
+    The printed booklet can be ordered at: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
 
 * **PDGLive:**
-    A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE. <http://pdglive.lbl.gov>
+    A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information on INSPIRE. <http://pdglive.lbl.gov>
 
 * **Computer-readable files:**
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics. <http://pdg.lbl.gov/current/html/computer_read.html>
@@ -48,7 +48,7 @@ Suggestions for additions and updates are very welcome.[^1]
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 13 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for approximately four million publications in this collection and tracks citations, which now amount to over 80 million links.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.  The ADS can be accessed at: <http://ads.harvard.edu/>
 
 * **arXiv.org:**
-    A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS. <https://arXiv.org>
+    A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; the repository includes postprints, working papers, and other relevant material. Established in 1991, it is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS. <https://arXiv.org>
 
     * Blog: [`https://blogs.cornell.edu/arXiv`](https://blogs.cornell.edu/arXiv)
     * Twitter: [`@arxiv`](https://twitter.com/arxiv)
@@ -112,7 +112,7 @@ Suggestions for additions and updates are very welcome.[^1]
     A full-service online recruiting site for academic institutions worldwide in all disciplines and areas. <https://academicjobsonline.org/ajo>
 
 * **APS Careers:**
-    A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society. <http://www.aps.org/careers/employment>
+    A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society. <http://www.aps.org/careers/employment>
 
 * **brightrecruits.com:**
     A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering. <http://brightrecruits.com/>
@@ -124,7 +124,7 @@ Suggestions for additions and updates are very welcome.[^1]
     Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. About 500 jobs are currently listed. <http://inspirehep.net/jobs>
 
 * **Physics Today Jobs:**
-    Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018. <http://www.physicstoday.org/jobs>
+    Online recruitment advertising website for the Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018. <http://www.physicstoday.org/jobs>
 
 # Software Packages and Repositories
 Most relevant software is hosted by general-purpose repositories like GitHub, GitLab or BitBucket, but here are a few specific repositories focused on astrophysics or HEP.
@@ -164,7 +164,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
    HEP community standard library for parton distribution function interpolation, including official collection of PDF data sets. <http://lhapdf.hepforge.org/>
 
 * **QUDA:**
-    Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions. <http://lattice.github.io/quda/>
+    Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson, Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions. <http://lattice.github.io/quda/>
 
 * **Rivet:**
     The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning. <http://rivet.hepforge.org/>
@@ -173,7 +173,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations. <http://root.cern.ch>
 
 * **Scikit-HEP:**
-    This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects. http://scikit-hep.org
+    This is a community-driven and community-oriented project with the aim of providing particle physics at large with an ecosystem for data analysis in Python. The project started in autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python, as well as the discoverability of utility packages and projects. http://scikit-hep.org
 
 * **TMDplotter:**
     Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
@@ -189,7 +189,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
     The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology. <http://skands.physics.monash.edu/slha/>
 
-    A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described in <http://arxiv.org/abs/0805.2088>
+    A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described at <http://arxiv.org/abs/0805.2088>
 
     G. Cowan's list provides links to HEP software, general statistics and data analysis links. <http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
 
@@ -198,13 +198,13 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 ## Astrophysics Software
 
 * **Astropy:**
-    The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages. <http://www.astropy.org>
+    The Astropy Project is a community effort to develop a single core package for astronomy in Python and foster interoperability between Python astronomy packages. <http://www.astropy.org>
 
 * **IRAF:**
     The Image Reduction and Analysis Facility is a general purpose software system for the reduction and analysis of astronomical data. IRAF is written and supported by the National Optical Astronomy Observatories (NOAO) in Tucson, Arizona. <http://iraf.noao.edu/>
 
 * **Starlink:**
-    Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis. <http://starlink.eao.hawaii.edu/starlink>
+    Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005, but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis. <http://starlink.eao.hawaii.edu/starlink>
 
 * Links to a large number of astronomy software archives are listed at: <http://heasarc.nasa.gov/docs/heasarc/astro-update/>
 
@@ -331,14 +331,13 @@ A useful list of resources can also be found at <http://www.stfc.ac.uk/research/
     The International Particle Physics Outreach Group is a network of scientists, science educators and communication specialists working across the globe in informal science education and outreach for particle physics. The IPPOG collaboration comprises 30 members: 24 countries, 5 experiments and CERN as an international laboratory.<http://ippog.web.cern.ch>
 
 * **Interactions.org:**
-    Designed to serve as a central resource for communicators of particle physics. The daily updated website provides links to current particle physics news from the world's press, high-resolution photos and graphics from the particle physics laboratories of the world; links to education and outreach programs; information about science policy and funding; a glossary; and links to many educational sites. <http://www.interactions.org>
+    Designed to serve as a central resource for communicators of particle physics. The daily updated website provides links to current particle physics news from the world's press, high-resolution photos and graphics from the particle physics laboratories of the world, links to education and outreach programs, information about science policy and funding, a glossary, and links to many educational sites. <http://www.interactions.org>
     
 * **QuarkNet:**
     The QuarkNet Collaboration is a national program that partners high school science teachers with particle physicists working in experiments at CERN or Fermilab. The network consists of over 50 centers at research groups in universities and labs across the United States. About 100,000 students from 500+ U.S. high schools learn fundamental physics as they participate in inquiry-oriented investigations and analyze authentic data online. QuarkNet is supported in part by the National Science Foundation and Fermilab. <https://quarknet.org/>
     
 * **Netzwerk Teilchenwelt:**
-    Behind the project are about 200 researchers from 30 institutes and universities doing research in particle physics, astroparticle physics and hadron and nuclear physics in Germany. Exciting young scientists throughout Germany for particle physics and accompanying them from school to top-level particle physics research—that's what they have set their sights on.
-https://www.teilchenwelt.de  
+    Behind the project are about 200 researchers from 30 institutes and universities doing research in particle physics, astroparticle physics and hadron and nuclear physics in Germany. Exciting young scientists throughout Germany for particle physics and accompanying them from school to top-level particle physics research — that's what they have set their sights on. https://www.teilchenwelt.de  
 
 **Physics Courses**
 
