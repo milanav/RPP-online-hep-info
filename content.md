@@ -123,8 +123,8 @@ Suggestions for additions and updates are very welcome.[^1]
 * **IOP Careers:**
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics. <http://www.iop.org/careers/>
 
-* **INSPIRE HEPJobs:**
-    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. About 500 jobs are currently listed. <http://inspirehep.net/jobs>
+* **INSPIRE Jobs:**
+    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. <https://labs.inspirehep.net/jobs>
 
 * **Physics Today Jobs:**
     Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018. <http://www.physicstoday.org/jobs>
